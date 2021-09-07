@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/RyomaArisawa/typescript_training/issues"
   },
-  "homepage": "https://github.com/RyomaArisawa/typescript_training#readme"
+  "homepage": "https://github.com/RyomaArisawa/typescript_training#readme",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  }
 }
