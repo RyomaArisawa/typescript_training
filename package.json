@@ -19,6 +19,7 @@
   "homepage": "https://github.com/RyomaArisawa/typescript_training#readme",
   "devDependencies": {
     "ts-node": "^10.2.1",
+    "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.2"
   }
 }
